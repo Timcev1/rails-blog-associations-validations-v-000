@@ -1,2 +1,2 @@
-class Posttag < ActiveRecord::Base
+class PostTag < ActiveRecord::Base
 end
